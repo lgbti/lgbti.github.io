@@ -3,6 +3,6 @@
 Türkiye LGBTİ Birliği Github Proje Sayfası
 
 ### Türkiye LGBTİ Birliği
-http://lgbti.org
+<a href="http://lgbti.org" title="lezbiyen, gay, biseksüel, trans, interseks">lgbti.org</a>
 info@lgbti.org
 
