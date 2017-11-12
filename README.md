@@ -3,9 +3,6 @@
 Türkiye LGBTİ Birliği Github Proje Sayfası
 
 ### Markdown
-
-
-### Lezbiyen, Gay, Biseksüel, Trans ve İnterseks
-
+http://lgbti.org
 info@lgbti.org
 
